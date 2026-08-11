@@ -1,5 +1,11 @@
 # 💫 About Me:
-📊 Data Analyst in Progress | Turning Data into Decisions with Python, SQL & BI Tools.<br><br>🔭 Currently Working On: Leveling up in AWS, Cloud Computing, Agentic AI & LLMs to blend traditional analytics with modern AI driven workflows.<br>👯 Looking To Collaborate On: Data analytics & visualization projects using Python, SQL, Power BI, Tableau, and Excel, especially real world dashboards and end to end analysis.<br>🤝 Seeking Help With: Sharpening my data analytics skill set and gaining clarity on career paths and job roles in the field.<br>🌱 Currently Learning: Exploring the fundamentals of AWS, Cloud infrastructure, and the emerging world of Agentic AI & LLMs.<br>💬 Ask Me About: Python, Power BI, Excel, Tableau, SQL.<br>⚡ Fun Fact: The first computer "bug" was an actual moth found stuck in a Harvard Mark II relay in 1947, debugging has been literal since day one! 🐛
+📊 <strong>Data Analyst in Progress</strong> | Turning Data into Decisions with Python, SQL & BI Tools
+-🔭 <strong>Currently Working On:</strong> Leveling up in AWS, Cloud Computing, Agentic AI & LLMs to blend traditional analytics with modern AI driven workflows
+-👯 <strong>Looking To Collaborate On:</strong> Data analytics & visualization projects using Python, SQL, Power BI, Tableau, and Excel, especially real world dashboards and end to end analysis
+-🤝 <strong>Seeking Help With:</strong> Sharpening my data analytics skill set and gaining clarity on career paths and job roles in the field
+-🌱 <strong>Currently Learning:</strong> Exploring the fundamentals of AWS, Cloud infrastructure, and the emerging world of Agentic AI & LLMs
+-💬 <strong>Ask Me About:</strong> Python, Power BI, Excel, Tableau, SQL
+-⚡ <strong>Fun Fact:</strong> The first computer "bug" was an actual moth found stuck in a Harvard Mark II relay in 1947, debugging has been literal since day one! 🐛
 
 
 ## 🌐 Socials:
