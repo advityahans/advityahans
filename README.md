@@ -1,10 +1,11 @@
 #  About Me:
-📊 <strong>Data Analyst in Progress</strong> | Turning Data into Decisions with Python, SQL & BI Tools.<br>
--🔭 <strong>Currently Working On:</strong> Leveling up in AWS, Cloud Computing, Agentic AI & LLMs to blend traditional analytics with modern AI driven workflows.<br>
--👯 <strong>Looking To Collaborate On:</strong> Data analytics & visualization projects using Python, SQL, Power BI, Tableau, and Excel, especially real world dashboards and end to end analysis.<br>
--🤝 <strong>Seeking Help With:</strong> Sharpening my data analytics skill set and gaining clarity on career paths and job roles in the field.<br>
--🌱 <strong>Currently Learning:</strong> Exploring the fundamentals of AWS, Cloud infrastructure, and the emerging world of Agentic AI & LLMs.<br>
--💬 <strong>Ask Me About:</strong> Python, Power BI, Excel, Tableau, SQL.<br>
+📊 <strong>Data Analyst | B.Tech CSE</strong> | Turning Data into Actionable Insights with SQL, Python, Power BI & Excel.<br>
+-💼 <strong>Data Analytics Experience:</strong> Worked on real-world analytics projects involving revenue data, sales-call analysis, reporting workflows, and business process automation.<br>
+-⚙️ <strong>Automation:</strong> Built Google Apps Script solutions for automated email distribution, call-recording tracking, and dashboard/reporting workflows.<br>
+-🤖 <strong>AI & Analytics:</strong> Explored AI-assisted sales-call analysis using LLMs to evaluate conversations and generate structured insights for business use.<br>
+-🛠️ <strong>Technical Stack:</strong> SQL, Python, Pandas, Power BI, Excel, Tableau, Google Apps Script, Google Sheets & Zoho CRM.<br>
+-📈 <strong>Focus Areas:</strong> Data Analysis, Business Intelligence, Data Visualization, Process Automation & Data-Driven Decision Making.<br>
+-☁️ <strong>Currently Exploring:</strong> AWS, Cloud Computing, Agentic AI & LLM-based data workflows.<br>
 
 
 
